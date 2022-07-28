@@ -1,9 +1,19 @@
 ![image](https://raw.githubusercontent.com/Supatsa2212/Supatsa2212/d5aa292e79d7962f170591958f426db586322477/header.png)
+## :tulip: Profile
 - :woman: My name is: Supatsa Buapech
 - ⚡ Student id: 63367018
 - :computer: I'm currently studying on Faculty of Engineering.
+## :tulip: Careers interested in the future
+- Backend Developer
+- IT support
+- Software Engineer
 
-## Developer Tech
+## :tulip: Aptitude, special interest in Computer Engineering
+- Algorithm
+- Computer Mathematics
+- Computer Programming
+
+## :tulip: Developer Tech
 
 ### Frameworks 
 <p align="left">
