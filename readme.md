@@ -1,6 +1,4 @@
-### Hi there 👋 Nice to see u.
-# _sptsaxx 
-
+[![image](https://raw.githubusercontent.com/Supatsa2212/Supatsa2212/d5aa292e79d7962f170591958f426db586322477/header.png)
 - 😄 My name is: Supatsa Buapech
 - ⚡ Student id: 63367018
 - 🔭 I'm currently studying on Faculty of Engineering.
