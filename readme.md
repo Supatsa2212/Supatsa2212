@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/109591019/181672905-9452a530-7777-4ff0-b1db-19cd8cb25cef.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supatsa2212&show_icons=true&theme=radical)
 ## :tulip: Profile
 - :woman: My name is : Supatsa Buapech
 - 🍂 My nick name is : kik
@@ -17,7 +16,7 @@
 - Computer Programming
 
 ## :tulip: Programmability in different languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supatsa2212)](https://github.com/Supatsa2212/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supatsa2212&layout=compact)](https://github.com/Supatsa2212/github-readme-stats)
 
 
 <p align="left"> 
@@ -29,4 +28,6 @@ Other languages
   </a> 
 
 </P>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supatsa2212&show_icons=true&theme=radical)
 
