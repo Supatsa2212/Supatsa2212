@@ -4,7 +4,7 @@
 - :woman: My name is : Supatsa Buapech
 - 🍂 My nick name is : kik
 - ⚡ Student id : 63367018
-- 👩‍💻 : I'm currently studying on Faculty of Engineering.
+- 👩‍💻 I'm currently studying on Faculty of Engineering.
 ## :tulip: Careers interested in the future
 - Backend Developer
 - IT support
