@@ -16,27 +16,11 @@
 - Computer Programming
 
 ## :tulip: Programmability in different languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supatsa2212)](https://github.com/Supatsa2212/github-readme-stats)
 
-## :tulip: Developer Tech
 
-### Frameworks 
-<p align="left">
-<a href="#">
-    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-<a href="#">
-    <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-<a href="#">
-    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-</p>
-
-### Languages 
+<p align="left"> 
+Other languages
 <p align="left">
 <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
@@ -48,25 +32,3 @@
 
 </P>
 
-### Tools 
-<p align="left">
-<a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a>
-
- <a href="#">
-    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-</P>
-
-## Devices / Manufacturers
-<p align="left">
-<a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-<a href="#">
-    <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
