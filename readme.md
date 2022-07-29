@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/109591019/181672905-9452a530-7777-4ff0-b1db-19cd8cb25cef.png)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supatsa2212&show_icons=true&theme=radical)
 ## :tulip: Profile
 - :woman: My name is : Supatsa Buapech
 - 🍂 My nick name is : kik
@@ -22,9 +23,6 @@
 <p align="left"> 
 Other languages
 <p align="left">
-<a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a> 
 
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
